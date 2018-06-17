@@ -35,7 +35,7 @@ shortLabel CCreneg20s3
 longLabel CCreneg20sample3
 parent major
 type bigWig
-color 16,11,55
+color 136,102,255
 
 track DCrepos20
 bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
