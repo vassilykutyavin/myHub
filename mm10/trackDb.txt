@@ -5,7 +5,7 @@ longLabel major
 type bigWig
 #viewLimits 0:30
 visibility full
-aggregate transparentOverlay
+aggregate stacked
 showSubtrackColorOnUi on
 windowingFunction maximum
 priority 1.2
