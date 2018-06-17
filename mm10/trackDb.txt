@@ -36,7 +36,7 @@ shortLabel s3
 longLabel sample3
 parent major
 type bigWig
-color 60,60,0
+color 60,0,60
 
 track Sample1
 bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
