@@ -29,18 +29,18 @@ parent major
 type bigWig
 color 0,255,0
 
-track DCreneg20
+track CCreneg20
 bigDataUrl https://de.cyverse.org/dl/d/918F55DD-D80E-440C-A5C1-7BAD5AC48599/sample3.bw
-shortLabel DCreneg20s3
-longLabel DCreneg20sample3
+shortLabel CCreneg20s3
+longLabel CCreneg20sample3
 parent major
 type bigWig
 color 16,11,55
 
-track CCrepos20
+track DCrepos20
 bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
-shortLabel CCrepos20s1
-longLabel CCrepos20sample1
+shortLabel DCrepos20s1
+longLabel DCrepos20sample1
 parent major
 type bigWig
 color 255,0,0
