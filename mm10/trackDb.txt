@@ -1,5 +1,5 @@
 track Sample1
-bigDataUrl https://raw.githubusercontent.com/vassilykutyavin/myHub/master/mm10/sample1.bw
+bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
 shortLabel s1
 longLabel sample1
 type bigWig
