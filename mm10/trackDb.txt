@@ -13,21 +13,6 @@ configurable on
 autoScale on
 dragAndDrop subtracks
 
-track Sample1
-bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
-shortLabel s1
-longLabel sample1
-parent major
-type bigWig
-color 0,0,255
-
-track sample3
-bigDataUrl https://de.cyverse.org/dl/d/918F55DD-D80E-440C-A5C1-7BAD5AC48599/sample3.bw
-shortLabel s3
-longLabel sample3
-parent major
-type bigWig
-color 0,255,0
 
 track Sample7
 bigDataUrl https://de.cyverse.org/dl/d/5558E021-B35D-49DA-A6C7-8B67BCD66400/sample7.bw
@@ -44,3 +29,19 @@ longLabel sample8
 parent major
 type bigWig
 color 255,0,0
+
+track sample3
+bigDataUrl https://de.cyverse.org/dl/d/918F55DD-D80E-440C-A5C1-7BAD5AC48599/sample3.bw
+shortLabel s3
+longLabel sample3
+parent major
+type bigWig
+color 0,255,0
+
+track Sample1
+bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
+shortLabel s1
+longLabel sample1
+parent major
+type bigWig
+color 0,0,255
