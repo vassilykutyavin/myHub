@@ -13,7 +13,6 @@ configurable on
 autoScale on
 dragAndDrop subtracks
 
-
 track ACreneg30
 bigDataUrl https://de.cyverse.org/dl/d/5558E021-B35D-49DA-A6C7-8B67BCD66400/sample7.bw
 shortLabel s7
