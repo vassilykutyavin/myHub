@@ -5,7 +5,7 @@ longLabel major
 type bigWig
 #viewLimits 0:30
 visibility full
-aggregate stacked
+aggregate transparentOverlay
 showSubtrackColorOnUi on
 windowingFunction maximum
 priority 1.2
@@ -21,26 +21,10 @@ parent major
 type bigWig
 color 0,0,255
 
-track BCrepos30
+track CCrepos30
 bigDataUrl https://de.cyverse.org/dl/d/3B71D2D0-6DF3-448E-9885-892F9DB77656/sample8.bw
-shortLabel BCrepos30s8
-longLabel BCrepos30sample8
-parent major
-type bigWig
-color 0,255,0
-
-track CCreneg20
-bigDataUrl https://de.cyverse.org/dl/d/918F55DD-D80E-440C-A5C1-7BAD5AC48599/sample3.bw
-shortLabel CCreneg20s3
-longLabel CCreneg20sample3
-parent major
-type bigWig
-color 136,102,255
-
-track DCrepos20
-bigDataUrl https://de.cyverse.org/dl/d/BBF0B2DB-8120-47AF-A1E9-454D476F5750/sample1.bw
-shortLabel DCrepos20s1
-longLabel DCrepos20sample1
+shortLabel CCrepos30s8
+longLabel CCrepos30sample8
 parent major
 type bigWig
 color 255,0,0
