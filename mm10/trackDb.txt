@@ -19,7 +19,7 @@ shortLabel ACreneg3
 longLabel ACreneg30
 parent major
 type bigWig
-color 0,0,100
+color 100,140,140
 
 track CCrepos30
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27ac30Cre%2B.bw
@@ -27,4 +27,4 @@ shortLabel CCrepos30
 longLabel CCrepos30
 parent major
 type bigWig
-color 100,0,0
+color 100,170,90
