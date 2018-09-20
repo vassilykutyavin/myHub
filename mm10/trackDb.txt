@@ -14,17 +14,17 @@ autoScale on
 dragAndDrop subtracks
 
 track ACreneg30
-bigDataUrl https://de.cyverse.org/dl/d/5558E021-B35D-49DA-A6C7-8B67BCD66400/sample7.bw
-shortLabel ACreneg30s7
-longLabel ACreneg30sample7
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27ac30Cre-.bw
+shortLabel ACreneg3
+longLabel ACreneg30
 parent major
 type bigWig
-color 0,0,255
+color 0,0,100
 
 track CCrepos30
-bigDataUrl https://de.cyverse.org/dl/d/3B71D2D0-6DF3-448E-9885-892F9DB77656/sample8.bw
-shortLabel CCrepos30s8
-longLabel CCrepos30sample8
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27ac30Cre%2B.bw
+shortLabel CCrepos30
+longLabel CCrepos30
 parent major
 type bigWig
-color 255,0,0
+color 100,0,0
