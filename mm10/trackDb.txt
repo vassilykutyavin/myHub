@@ -27,4 +27,4 @@ shortLabel CCrepos30
 longLabel CCrepos30
 parent major
 type bigWig
-color 100,170,90
+color 100,90,170
