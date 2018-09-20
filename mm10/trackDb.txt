@@ -19,7 +19,7 @@ shortLabel ACreneg3
 longLabel ACreneg30
 parent major
 type bigWig
-color 115,130,132
+color 140,135,105
 
 track 30_sample7
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/sample7.bw
@@ -27,4 +27,4 @@ shortLabel CCrepos30
 longLabel CCrepos30
 parent major
 type bigWig
-color 120,125,105
+color 110,115,145
