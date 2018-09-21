@@ -15,16 +15,16 @@ dragAndDrop subtracks
 
 track 22_sample3
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/sample3.bw
-shortLabel ACreneg3
-longLabel ACreneg30
+shortLabel A
+longLabel A_H3K27ac_Creneg22_sample3
 parent major
 type bigWig
 color 60,102,90
 
 track 30_sample7
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/sample7.bw
-shortLabel CCrepos30
-longLabel CCrepos30
+shortLabel B
+longLabel A_H3K27ac_Creneg30_sample7
 parent major
 type bigWig
 color 136,102,255
