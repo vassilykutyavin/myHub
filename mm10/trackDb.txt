@@ -1,4 +1,4 @@
-track major
+track Cre- 30 vs. Cre- 22
 container multiWig
 shortLabel major
 longLabel major
@@ -17,7 +17,7 @@ track 22_sample3
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/sample3.bw
 shortLabel A
 longLabel A_H3K27ac_Creneg22_sample3
-parent major
+parent Cre- 30 vs. Cre- 22
 type bigWig
 color 60,102,90
 
@@ -25,6 +25,6 @@ track 30_sample7
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/sample7.bw
 shortLabel B
 longLabel A_H3K27ac_Creneg30_sample7
-parent major
+parent Cre- 30 vs. Cre- 22
 type bigWig
 color 136,102,255
