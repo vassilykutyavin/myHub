@@ -1,7 +1,7 @@
 track Creneg30_vs_Creneg22
 container multiWig
-shortLabel major
-longLabel major
+shortLabel Creneg30_vs_Creneg22
+longLabel Creneg30_vs_Creneg22
 type bigWig
 #viewLimits 0:30
 visibility full
